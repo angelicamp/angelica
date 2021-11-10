@@ -1,2 +1,2 @@
-# angelica
+# Angelica
 My home page 
